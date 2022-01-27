@@ -1,11 +1,11 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2022-01-27T23:48:05.000Z
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Mi primer post - prueba
+subtitle: 'Haciendo una prueba de como funciona esto'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  Estoy haciendo cambios mediante Visual Studio Code en Windows
+  y con "nano" con mi Kali Linux
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
