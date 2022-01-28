@@ -31,6 +31,11 @@ I plan to create this blog as a way to communicate to the community all the info
 
 I'm excited about this partly because of this great new technology, but mostly because of the political weapon it signifies.
 
+<!--page-->
+
 ## List of articles by theme:
 
 Coming soon
+
+<!--page-->
+
