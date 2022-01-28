@@ -17,11 +17,17 @@ tags:
 author: nicocryptor
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+I plan to create this blog as a way to communicate to the community all the information I learn and generate. **I plan to talk mostly about the following topics:**
+
+* Cybersecurity basics
+* Solutions to common and uncommon problems 
+* Own configurations on my machines
+* Solutions to HackTheBox machines
+* Step by step to create a script
+* Notes and opinions on related topics
+* Working together my way to the union of Cybersecurity, Crypto and Blockchain
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
 ## Inline HTML elements
 
