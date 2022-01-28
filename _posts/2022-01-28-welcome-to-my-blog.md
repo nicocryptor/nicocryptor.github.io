@@ -1,13 +1,11 @@
 ---
-date: 2022-01-27T23:48:05.000Z
+date: 2022-01-27 23:48:05
 layout: post
 title: Welcome to my blog
 subtitle: 'Updated January 28th, 2022'
 description: Post about the reason for the existence of my blog, and updated every time there is a new post
-image: >-
-  https://i.ibb.co/tJQgzRg/Portada-y-primer-post.png
-optimized_image: >-
-  https://i.ibb.co/tJQgzRg/Portada-y-primer-post.png
+image: https://i.ibb.co/tJQgzRg/Portada-y-primer-post.png
+optimized_image: https://i.ibb.co/tJQgzRg/Portada-y-primer-post.png
 category: blog
 tags:
   - welcome
@@ -16,6 +14,7 @@ tags:
 author: nicocryptor
 paginate: true
 ---
+
 I plan to create this blog as a way to communicate to the community all the information I learn and generate. **I plan to talk mostly about the following topics:**
 
 * Cybersecurity basics
