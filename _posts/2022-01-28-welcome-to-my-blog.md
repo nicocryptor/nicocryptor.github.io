@@ -4,8 +4,8 @@ layout: post
 title: Welcome to my blog
 subtitle: 'Updated January 28th, 2022'
 description: Post about the reason for the existence of my blog, and updated every time there is a new post
-image: https://i.ibb.co/nr4wY32/Portada-y-primer-post.webp
-optimized_image: https://i.ibb.co/nr4wY32/Portada-y-primer-post.webp
+image: https://i.ibb.co/n6b8x2f/Portada-y-primer-post.png
+optimized_image: https://i.ibb.co/n6b8x2f/Portada-y-primer-post.png
 category: blog
 tags:
   - welcome
