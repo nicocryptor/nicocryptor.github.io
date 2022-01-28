@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: false
-date: '2022-01-27 01:53:59'
+date: '2022-01-27 20:53:59'
 title: About
 permalink: /about/
 description: Some description.
@@ -11,5 +11,11 @@ description: Some description.
 
 # About
 
-Eternal vigilance is the price of liberty; power is ever stealing from the many to the few.
+"Eternal vigilance is the price of liberty", and this is why cybersecurity is so important. We own our actions and our defense, and that's why you are welcome to learn on my site.
+
+We also have to own our currency, and take power away from the government. "Power is ever stealing from the many to the few."
+My future projects are all about Blockchain, Crypto and Cybersecurity.. 
+
 "When governments fear the people, there is liberty. When the people fear the government, there is tyranny. The strongest reason for the people to retain the right to keep and bear arms is, as a last resort, to protect themselves against tyranny in government."
+
+If you want to contact me you have my social medias below
