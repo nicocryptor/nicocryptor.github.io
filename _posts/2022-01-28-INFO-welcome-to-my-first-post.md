@@ -27,7 +27,9 @@ I plan to create this blog as a way to communicate to the community all the info
 * Notes and opinions on related topics
 * Working together my way to the union of Cybersecurity, Crypto and Blockchain
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> My long term project is to create content and community entirely related to Cybersecurity related to Crypto and Blockchain.
+
+I'm excited about this partly because of this great new technology, but mostly because of the political weapon it signifies.
 
 ## Inline HTML elements
 
