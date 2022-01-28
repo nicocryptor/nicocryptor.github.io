@@ -1,10 +1,9 @@
 ---
 date: 2022-01-27T23:48:05.000Z
-layout: info
+layout: post
 title: Welcome to my blog
 subtitle: 'Updated January 28th, 2022'
-description: >-
-  Post about the reason for the existence of my blog, and updated every time there is a new post
+description: Post about the reason for the existence of my blog, and updated every time there is a new post
 image: >-
   https://i.ibb.co/tJQgzRg/Portada-y-primer-post.png
 optimized_image: >-
