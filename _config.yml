@@ -14,10 +14,10 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+#  - title: Contact
+#    url: /contact
+# - title: Feed
+#   url: /feed.xml
 email: cryptornico@gmail.com
 # See: https://disqus.com/
 #disqus_username: disqus_username
@@ -30,7 +30,7 @@ formspree_form_id: formspree_form_id
 # Remove the item if you don't need it
 github_username: nicocryptor
 twitter_username: nicocryptor00
-instagram_username: nicocryptor00
+instagram_username: nicocryptor
 linkedin_username: nicolasoroz
 
 
