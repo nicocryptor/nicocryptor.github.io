@@ -16,7 +16,7 @@ menu:
     url: /about
   - title: Contact
     url: /contact
- - title: Feed
+  - title: Feed
    url: /feed.xml
 email: cryptornico@gmail.com
 # See: https://disqus.com/
@@ -39,6 +39,7 @@ show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
+future: true
 
 
 # Advanced Settings
