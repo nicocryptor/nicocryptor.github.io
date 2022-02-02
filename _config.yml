@@ -16,15 +16,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: cryptornico@gmail.com
-# See: https://disqus.com/
-#disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: formspree_form_id
 
+email: cryptornico@gmail.com
 
 # Social Media Settings
 # Remove the item if you don't need it
