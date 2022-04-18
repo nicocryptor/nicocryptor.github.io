@@ -1,13 +1,12 @@
 # Site Settings
 name: NicoCryptor
 title: NicoCryptor | Cybersecurity
-description: It is a blog about Cibersecurity made by NicoCryptor
+description: It is a blog about Cibersecurity by NicoCryptor
 tags:
   - blog
   - template
-  - jekyll
   - theme
-  - netlify
+  - cybersecurity
 show_hero: true
 menu:
   - title: Home
@@ -39,7 +38,7 @@ future: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "es"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
