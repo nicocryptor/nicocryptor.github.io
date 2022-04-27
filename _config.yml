@@ -1,7 +1,7 @@
 # Site Settings
 name: NicoCryptor
-title: NicoCryptor | Cybersecurity
-description: It is a blog about Cibersecurity by NicoCryptor
+title: NicoCryptor | Ciberseguridad
+description: Blog sobre Ciberseguridad e informatica
 tags:
   - blog
   - template
@@ -11,9 +11,9 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: Sobre mi
     url: /about
-  - title: Contact
+  - title: Contacto
     url: /contact
 
 email: cryptornico@gmail.com
