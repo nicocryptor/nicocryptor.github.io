@@ -1,5 +1,5 @@
 ---
-date: 2022-01-27 23:48:05
+date: 2022-01-28 23:48:05
 layout: post
 title: Bienvenido a mi blog
 subtitle: 'Actualizado el 17 de abril del 2022'
