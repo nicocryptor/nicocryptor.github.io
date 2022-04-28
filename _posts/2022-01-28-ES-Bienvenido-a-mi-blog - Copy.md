@@ -1,9 +1,9 @@
 ---
-date: 2022-01-28 23:48:05
+date: 2022-04-27 21:48:05
 layout: post
 title: Bienvenido a mi blog
 subtitle: 'Actualizado el 17 de abril del 2022'
-description: Descripcion de aquello con lo que te vas a encontrar y la razon de existir de mi blog
+description: Descripcion de aqujello con lo que te vas a encontrar y la razon de existir de mi blog
 image: https://i.ibb.co/n6b8x2f/Portada-y-primer-post.png
 optimized_image: https://i.ibb.co/n6b8x2f/Portada-y-primer-post.png
 category: blog

@@ -13,10 +13,14 @@ menu:
     url: /
   - title: Sobre mi
     url: /about
-  - title: Contacto
+  - title: Ponte en contacto
     url: /contact
 
-email: cryptornico@gmail.com
+email: nicocryptor@gmail.com
+
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
